@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+### DEPRECATED ###
 
 import random
 import string
